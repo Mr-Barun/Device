@@ -1,0 +1,24 @@
+  body { width: 100%;
+         height: 100%;
+         background: #dde1e7;
+         
+      }
+  .text {
+         text-align: center;
+         text-transform:capitalize;
+         
+       }
+  .img-box { 
+         margin: 3rem;
+         box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2), -3px -3px 5px rgba(0, 0, 0, 0.1);
+         border-radius: 41px;
+      }
+  h2 { text-align: center;
+       border: 2px solid pink;
+       color: #430bec;
+       background: transparent;
+       
+       padding: 8px;
+       
+       
+    }
